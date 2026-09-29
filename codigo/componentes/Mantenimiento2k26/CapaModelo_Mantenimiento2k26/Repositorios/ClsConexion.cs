@@ -9,7 +9,7 @@ namespace CapaModelo_Mantenimiento2k26
 
         public ClsConexion()
         {
-            _ConnectionString = "Dsn= segundoparcial2k26";
+            _ConnectionString = "Dsn = segundoparcial2k26";
         }
 
         protected OdbcConnection SeguridadMetObtenerConexion()
